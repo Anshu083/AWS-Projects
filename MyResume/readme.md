@@ -1,6 +1,7 @@
 **AWS Project: Build a Resume/CV website on AWS**
 
 ![image](https://github.com/user-attachments/assets/03425137-1313-4eec-b7af-f4d25c3b8de9)
+
 **Summary:**
 
 Build an interactive resume/CV using HTML, CSS and JavaScript and host this static website on AWS S3. 
